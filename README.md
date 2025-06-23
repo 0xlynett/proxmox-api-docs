@@ -1,8 +1,8 @@
-# Proxmox API Markdown Documentation
+# Proxmox APIv7 Markdown Documentation
 
-A form of the [Proxmox API docs](https://pve.proxmox.com/pve-docs/api-viewer) suitable for LLM usage. [LLMS-FULL.md](LLMS-FULL.md) contains the full documentation, while the other files are for specific APIs.
+A form of the [Proxmox API v7 docs](https://pve.proxmox.com/pve-docs/api-viewer) suitable for LLM usage. [LLMS-FULL.md](LLMS-FULL.md) contains the full documentation, while the other files are for specific APIs.
 
-Generated from Proxmox API documentation in [apidocs.js](https://raw.githubusercontent.com/proxmox/pve-docs/master/api-viewer/apidata.js).
+Generated from Proxmox API documentation in [apidocs.js](https://raw.githubusercontent.com/proxmox/pve-docs/master/api-viewer/apidata.js) as of 2025-6-23.
 
 ## License
 
