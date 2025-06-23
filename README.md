@@ -1,4 +1,4 @@
-# Proxmox API Documentation
+# Proxmox API Markdown Documentation
 
 A form of the [Proxmox API docs](https://pve.proxmox.com/pve-docs/api-viewer) suitable for LLM usage. [LLMS-FULL.md](LLMS-FULL.md) contains the full documentation, while the other files are for specific APIs.
 
